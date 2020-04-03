@@ -20,7 +20,7 @@ ___
 |------------------|--------|
 |Combustible Gastado| |
 |Promedio 3|<https://github.com/sebastianrodriguezcorrea/Analysis-and-design-of-algorithms/tree/master/Period%201/Promedio%203> |
-|Clasificación Simple| |
+|Clasificación Simple|<https://github.com/sebastianrodriguezcorrea/Analysis-and-design-of-algorithms/tree/master/Period%201/ClasificacionSimple>|
 |Triángulo| |
 |Twitting| |
 |Twilight at Portland| |
