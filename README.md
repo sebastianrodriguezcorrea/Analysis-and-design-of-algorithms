@@ -22,9 +22,9 @@ ___
 |Promedio 3|<https://github.com/sebastianrodriguezcorrea/Analysis-and-design-of-algorithms/tree/master/Period%201/Promedio%203> |
 |Clasificación Simple|<https://github.com/sebastianrodriguezcorrea/Analysis-and-design-of-algorithms/tree/master/Period%201/ClasificacionSimple>|
 |Triángulo|<https://github.com/sebastianrodriguezcorrea/Analysis-and-design-of-algorithms/tree/master/Period%201/Triangulo>|
-|Twitting| |
-|Twilight at Portland| |
-|Engine Failure| |
-|Evento| |
+|Twitting|<https://github.com/sebastianrodriguezcorrea/Analysis-and-design-of-algorithms/tree/master/Period%201/Twitting>|
+|Twilight at Portland|<https://github.com/sebastianrodriguezcorrea/Analysis-and-design-of-algorithms/tree/master/Period%201/TwilightAtPortland>|
+|Engine Failure|<https://github.com/sebastianrodriguezcorrea/Analysis-and-design-of-algorithms/tree/master/Period%201/EngineFailure>|
+|Evento|<https://github.com/sebastianrodriguezcorrea/Analysis-and-design-of-algorithms/tree/master/Period%201/Evento>|
 
 
