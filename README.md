@@ -27,4 +27,16 @@ ___
 |Engine Failure|<https://github.com/sebastianrodriguezcorrea/Analysis-and-design-of-algorithms/tree/master/Period%201/EngineFailure>|
 |Evento|<https://github.com/sebastianrodriguezcorrea/Analysis-and-design-of-algorithms/tree/master/Period%201/Evento>|
 
+___
+
+## Period 2 - Corte 2
+
+|Algorithm exercise|Solution|
+|------------------|--------|
+|Intership|<https://github.com/sebastianrodriguezcorrea/Analysis-and-design-of-algorithms/tree/master/Period%202/Internship>|
+|Web Browser|<https://github.com/sebastianrodriguezcorrea/Analysis-and-design-of-algorithms/tree/master/Period%202/WebBrowser>|
+|Magic and Sword|<https://github.com/sebastianrodriguezcorrea/Analysis-and-design-of-algorithms/tree/master/Period%202/MagicAndSword>|
+|Dominación Bacteriana|<https://github.com/sebastianrodriguezcorrea/Analysis-and-design-of-algorithms/tree/master/Period%202/DominacionBacteriana>|
+|Dijkstra|<https://github.com/sebastianrodriguezcorrea/Analysis-and-design-of-algorithms/tree/master/Period%202/Dijkstra>|
+|Iu-Di-Oh!|<https://github.com/sebastianrodriguezcorrea/Analysis-and-design-of-algorithms/tree/master/Period%202/Iu-Di-Oh>|
 
