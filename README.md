@@ -18,7 +18,7 @@ ___
 
 |Algorithm exercise|Solution|
 |------------------|--------|
-|Combustible Gastado| |
+|Combustible Gastado|<https://github.com/sebastianrodriguezcorrea/Analysis-and-design-of-algorithms/tree/master/Period%201/CombustibleGastado>|
 |Promedio 3|<https://github.com/sebastianrodriguezcorrea/Analysis-and-design-of-algorithms/tree/master/Period%201/Promedio%203> |
 |Clasificación Simple|<https://github.com/sebastianrodriguezcorrea/Analysis-and-design-of-algorithms/tree/master/Period%201/ClasificacionSimple>|
 |Triángulo|<https://github.com/sebastianrodriguezcorrea/Analysis-and-design-of-algorithms/tree/master/Period%201/Triangulo>|
