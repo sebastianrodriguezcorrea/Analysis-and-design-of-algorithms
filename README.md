@@ -2,7 +2,7 @@
 
 ![Algorithms](https://lh3.googleusercontent.com/proxy/eK_2YEL9JsWrbTm1nOSDI-lUE9Z1dmhpgV0VMWK1OKlO618gDcj1rjK8rkmPlUGfn7xhzzR2VpgSmgKpZHN9otc7KRk7wBT8kMMP3yuFRaug4B6pPRBsBsl3zupaHg)
 
-__
+___
 
 ## Introduction
 
@@ -12,7 +12,7 @@ En este espacio se compartirá ejercicios, talleres y quices desarrollados en la
 
 ![Universidad de San Buenaventura](https://lh3.googleusercontent.com/proxy/FZJWDq4JtggMzB7XdUiBil60dmo6EMZNga8WjlsYQFv2irxCY9xaaa-1yUthv_iV00Bo_oIH-1e-pZat)
 
-__
+___
 
 ## Period 1 - Corte 1
 
