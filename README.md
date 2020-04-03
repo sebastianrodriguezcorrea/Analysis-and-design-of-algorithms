@@ -1,6 +1,6 @@
 # Analysis and design of algorithms (USBBOG)
 
-![Algorithms](https://lh3.googleusercontent.com/proxy/eK_2YEL9JsWrbTm1nOSDI-lUE9Z1dmhpgV0VMWK1OKlO618gDcj1rjK8rkmPlUGfn7xhzzR2VpgSmgKpZHN9otc7KRk7wBT8kMMP3yuFRaug4B6pPRBsBsl3zupaHg)
+<center>![Algorithms](https://lh3.googleusercontent.com/proxy/eK_2YEL9JsWrbTm1nOSDI-lUE9Z1dmhpgV0VMWK1OKlO618gDcj1rjK8rkmPlUGfn7xhzzR2VpgSmgKpZHN9otc7KRk7wBT8kMMP3yuFRaug4B6pPRBsBsl3zupaHg)</center>
 ![Universidad de San Buenaventura](https://dachcolombia.com/wp-content/uploads/2017/07/7993_universidad-de-san-buenaventura.jpg)
 
 ## Analysis and design of algorithms
