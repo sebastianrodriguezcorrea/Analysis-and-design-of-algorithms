@@ -18,8 +18,8 @@ ___
 
 |Algorithm exercise|Solution|
 |------------------|--------|
-|Combustible Gastado|<https://github.com/sebastianrodriguezcorrea/Analysis-and-design-of-algorithms/tree/master/Period%201/Promedio%203> |
-|Promedio 3| |
+|Combustible Gastado| |
+|Promedio 3|<https://github.com/sebastianrodriguezcorrea/Analysis-and-design-of-algorithms/tree/master/Period%201/Promedio%203> |
 |Clasificación Simple| |
 |Triángulo| |
 |Twitting| |
