@@ -15,8 +15,12 @@ En este espacio se compartirá ejercicios, talleres y quices desarrollados en la
 |Algorithm exercise|Solution|
 |------------------|--------|
 |Combustible Gastado| |
-
-
-
+|Promedio 3| |
+|Clasificación Simple| |
+|Triángulo| |
+|Twitting| |
+|Twilight at Portland| |
+|Engine Failure| |
+|Evento| |
 
 
