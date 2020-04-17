@@ -1,6 +1,6 @@
 # Analysis and design of algorithms (USBBOG)
 
-![Algorithms](https://lh3.googleusercontent.com/proxy/eK_2YEL9JsWrbTm1nOSDI-lUE9Z1dmhpgV0VMWK1OKlO618gDcj1rjK8rkmPlUGfn7xhzzR2VpgSmgKpZHN9otc7KRk7wBT8kMMP3yuFRaug4B6pPRBsBsl3zupaHg)
+![Algorithms](https://www.caracteristicas.co/wp-content/uploads/2018/08/Algoritmo-min-e1533652024302.jpg)
 
 ___
 
