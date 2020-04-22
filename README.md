@@ -42,4 +42,5 @@ ___
 |Iu-Di-Oh!|<https://github.com/sebastianrodriguezcorrea/Analysis-and-design-of-algorithms/tree/master/Period%202/Iu-Di-Oh>|
 |CoronaVirus|<https://github.com/sebastianrodriguezcorrea/Analysis-and-design-of-algorithms/tree/master/COVID-19>|
 |Video Python(Met. Ordenamiento)|<https://youtu.be/2UYa1W-tpAA>|
+|Metodos de Ordenamiento en Python||
 |Taller 4|<https://github.com/sebastianrodriguezcorrea/Analysis-and-design-of-algorithms/tree/master/Period%202/Taller%204/Taller4Analisis/src>|
