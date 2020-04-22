@@ -17,7 +17,7 @@ ___
 
 ## Period 1 - Corte 1
 
-|Algorithm exercise|Solution|Diagramas de flujo|
+|Algorithm exercise|Solution|FlowChart|
 |------------------|--------|------------------|
 |Combustible Gastado|<https://github.com/sebastianrodriguezcorrea/Analysis-and-design-of-algorithms/tree/master/Period%201/CombustibleGastado>|<https://github.com/sebastianrodriguezcorrea/Analysis-and-design-of-algorithms/blob/master/Period%201/Flowchart/CombustibleGastado.jpg>|
 |Promedio 3|<https://github.com/sebastianrodriguezcorrea/Analysis-and-design-of-algorithms/tree/master/Period%201/Promedio%203>|<https://github.com/sebastianrodriguezcorrea/Analysis-and-design-of-algorithms/blob/master/Period%201/Flowchart/Promedio3.jpg>|
