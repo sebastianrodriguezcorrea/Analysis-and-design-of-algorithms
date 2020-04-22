@@ -1,5 +1,5 @@
 import math
-
+#Author Juan Sebastian
 #Método para solicitar datos de entrada al usuario.
 def datosEntrada():
 	
