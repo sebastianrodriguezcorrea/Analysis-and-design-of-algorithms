@@ -4,13 +4,13 @@
 
 ___
 
-<span style = "font-size: 16pt">**Introduction**</span>
+<span style = "font-size: 16pt"><strong>Introduction</strong></span>
 
 <p style = 'text-align: justify;'>
-In this space will shared exercises, talleres and quices development in the asignature of Analysis and design of algorithms in **San Buenaventura university** of the Bogotá <https://www.usbbog.edu.co/> Therefore, the aim will be to guide and demonstrate the various topics that comprise the subject matter, the objective is to store a series of useful algorithms that will be supportive in solving algorithmic problems with a higher level of difficulty.</p> 
+In this space will shared exercises, talleres and quices development in the asignature of <strong>Analysis and design of algorithms</strong> in <strong>San Buenaventura university</strong> of the Bogotá <https://www.usbbog.edu.co/> Therefore, the aim will be to guide and demonstrate the various topics that comprise the subject matter, the objective is to store a series of useful algorithms that will be supportive in solving algorithmic problems with a higher level of difficulty.</p> 
 
 <p style = 'text-align: justify;'>
-En este espacio se compartirá ejercicios, talleres y quices desarrollados en la materia de **Análisis y diseño de algoritmos** de la **Universidad de San Buenaventura** de la sede de Bogotá <https://www.usbbog.edu.co/> Por ende se tendrá como fin orientar y demostrar los diversos temas que comprenden la materia en cuestión, el objetivo es almacenar una serie de algoritmos utiles que serán de apoyo para resolver problemas algoritmicos con un nivel de dificultad superior.</p>
+En este espacio se compartirá ejercicios, talleres y quices desarrollados en la materia de <strong>Análisis y diseño de algoritmos</strong> de la <strong>Universidad de San Buenaventura</strong> de la sede de Bogotá <https://www.usbbog.edu.co/> Por ende se tendrá como fin orientar y demostrar los diversos temas que comprenden la materia en cuestión, el objetivo es almacenar una serie de algoritmos utiles que serán de apoyo para resolver problemas algoritmicos con un nivel de dificultad superior.</p>
 
 ___
 
