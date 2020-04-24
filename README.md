@@ -17,33 +17,18 @@ ___
 ![Universidad de San Buenaventura](https://dachcolombia.com/wp-content/uploads/2017/07/7993_universidad-de-san-buenaventura.jpg)
 
 ## Period 1 
- 
-|Algorithm exercise|<center>Code Solution</center>|
-|------------------|--------|
-|Combustible Gastado|<https://github.com/sebastianrodriguezcorrea/Analysis-and-design-of-algorithms/tree/master/Period%201/CombustibleGastado>|
-|Promedio 3|<https://github.com/sebastianrodriguezcorrea/Analysis-and-design-of-algorithms/tree/master/Period%201/Promedio%203>|
-|Clasificación Simple|<https://github.com/sebastianrodriguezcorrea/Analysis-and-design-of-algorithms/tree/master/Period%201/ClasificacionSimple>|
-|Triángulo|<https://github.com/sebastianrodriguezcorrea/Analysis-and-design-of-algorithms/tree/master/Period%201/Triangulo>|
-|Twitting|<https://github.com/sebastianrodriguezcorrea/Analysis-and-design-of-algorithms/tree/master/Period%201/Twitting>|
-|Twilight at Portland|<https://github.com/sebastianrodriguezcorrea/Analysis-and-design-of-algorithms/tree/master/Period%201/TwilightAtPortland>|
-|Engine Failure|<https://github.com/sebastianrodriguezcorrea/Analysis-and-design-of-algorithms/tree/master/Period%201/EngineFailure>|
-|Evento|<https://github.com/sebastianrodriguezcorrea/Analysis-and-design-of-algorithms/tree/master/Period%201/Evento>|
-|Quiz|<https://github.com/sebastianrodriguezcorrea/Analysis-and-design-of-algorithms/tree/master/Period%201/Quiz/AdaQuiz>|
 
-___
-
-<span style = "font-size: 13pt">**FlowCharts**</span>
-
-|Algorithm exercise|<center>FlowChart</center>|
-|------------------|---------|
-|Combustible Gastado|<https://github.com/sebastianrodriguezcorrea/Analysis-and-design-of-algorithms/blob/master/Period%201/Flowchart/Promedio3.jpg>|
-|Promedio 3|<https://github.com/sebastianrodriguezcorrea/Analysis-and-design-of-algorithms/blob/master/Period%201/Flowchart/Promedio3.jpg>|
-|Clasificación Simple|<https://github.com/sebastianrodriguezcorrea/Analysis-and-design-of-algorithms/blob/master/Period%201/Flowchart/ClasificacionSimple.jpg>|
-|Triángulo|<https://github.com/sebastianrodriguezcorrea/Analysis-and-design-of-algorithms/blob/master/Period%201/Flowchart/Triangulo.jpg>|
-|Twitting|<https://github.com/sebastianrodriguezcorrea/Analysis-and-design-of-algorithms/blob/master/Period%201/Flowchart/Twitting.jpg>|
-|Engine Failure|<https://github.com/sebastianrodriguezcorrea/Analysis-and-design-of-algorithms/blob/master/Period%201/Flowchart/EngineFailure.jpg>|
-|Evento|<https://github.com/sebastianrodriguezcorrea/Analysis-and-design-of-algorithms/blob/master/Period%201/Flowchart/EngineFailure.jpg>|
-|Quiz|<https://github.com/sebastianrodriguezcorrea/Analysis-and-design-of-algorithms/blob/master/Period%201/Flowchart/adaQuiz.jpg>|
+|Algorithm exercise URI|<center>Code Solution</center>|FlowChart|
+|------------------|--------|-------------------------|
+|[Combustible Gastado](https://www.urionlinejudge.com.br/judge/es/problems/view/1017)|<center>[code](https://github.com/sebastianrodriguezcorrea/Analysis-and-design-of-algorithms/tree/master/Period%201/CombustibleGastado)</center>|[diagram](https://github.com/sebastianrodriguezcorrea/Analysis-and-design-of-algorithms/blob/master/Period%201/Flowchart/Promedio3.jpg)|
+|[Promedio 3](https://www.urionlinejudge.com.br/judge/es/problems/view/1040)|<center>[code](https://github.com/sebastianrodriguezcorrea/Analysis-and-design-of-algorithms/tree/master/Period%201/Promedio%203)</center>|[diagram](https://github.com/sebastianrodriguezcorrea/Analysis-and-design-of-algorithms/blob/master/Period%201/Flowchart/Promedio3.jpg)|
+|[Clasificación Simple](https://www.urionlinejudge.com.br/judge/es/problems/view/1042)|<center>[code](https://github.com/sebastianrodriguezcorrea/Analysis-and-design-of-algorithms/tree/master/Period%201/ClasificacionSimple)</center>|[diagram](https://github.com/sebastianrodriguezcorrea/Analysis-and-design-of-algorithms/blob/master/Period%201/Flowchart/ClasificacionSimple.jpg)|
+|[Triángulo](https://www.urionlinejudge.com.br/judge/es/problems/view/1043)|<center>[code](https://github.com/sebastianrodriguezcorrea/Analysis-and-design-of-algorithms/tree/master/Period%201/Triangulo)</center>|[diagram](https://github.com/sebastianrodriguezcorrea/Analysis-and-design-of-algorithms/blob/master/Period%201/Flowchart/Triangulo.jpg)|
+|[Twitting](https://www.urionlinejudge.com.br/judge/es/problems/view/2165)|<center>[code](https://github.com/sebastianrodriguezcorrea/Analysis-and-design-of-algorithms/tree/master/Period%201/Twitting)</center>|[diagram](https://github.com/sebastianrodriguezcorrea/Analysis-and-design-of-algorithms/blob/master/Period%201/Flowchart/Twitting.jpg)|
+|[Twilight at Portland](https://www.urionlinejudge.com.br/judge/es/problems/view/2168)|<center>[code](https://github.com/sebastianrodriguezcorrea/Analysis-and-design-of-algorithms/tree/master/Period%201/TwilightAtPortland)</center>|[diagram](https://github.com/sebastianrodriguezcorrea/Analysis-and-design-of-algorithms/blob/master/Period%201/Flowchart/TwilightAtPortland.jpg)|
+|[Engine Failure](https://www.urionlinejudge.com.br/judge/es/problems/view/2167)|<center>[code](https://github.com/sebastianrodriguezcorrea/Analysis-and-design-of-algorithms/tree/master/Period%201/EngineFailure)</center>|[diagram](https://github.com/sebastianrodriguezcorrea/Analysis-and-design-of-algorithms/blob/master/Period%201/Flowchart/EngineFailure.jpg)|
+|[Evento](https://www.urionlinejudge.com.br/judge/es/problems/view/2172)|<center>[code](https://github.com/sebastianrodriguezcorrea/Analysis-and-design-of-algorithms/tree/master/Period%201/Evento)</center>|[diagram](https://github.com/sebastianrodriguezcorrea/Analysis-and-design-of-algorithms/blob/master/Period%201/Flowchart/EngineFailure.jpg)|
+|[Quiz](https://www.urionlinejudge.com.br/judge/es/problems/view/1930)|<center>[code](https://github.com/sebastianrodriguezcorrea/Analysis-and-design-of-algorithms/tree/master/Period%201/Quiz/AdaQuiz)</center>|[diagram](https://github.com/sebastianrodriguezcorrea/Analysis-and-design-of-algorithms/blob/master/Period%201/Flowchart/adaQuiz.jpg)|
 
 ___
 
@@ -51,13 +36,15 @@ ___
 
 |Algorithm exercise|<center>Code Solution</center>|
 |------------------|--------|
-|Intership|<https://github.com/sebastianrodriguezcorrea/Analysis-and-design-of-algorithms/tree/master/Period%202/Internship>|
-|Web Browser|<https://github.com/sebastianrodriguezcorrea/Analysis-and-design-of-algorithms/tree/master/Period%202/WebBrowser>|
-|Magic and Sword|<https://github.com/sebastianrodriguezcorrea/Analysis-and-design-of-algorithms/tree/master/Period%202/MagicAndSword>|
-|Dominación Bacteriana|<https://github.com/sebastianrodriguezcorrea/Analysis-and-design-of-algorithms/tree/master/Period%202/DominacionBacteriana>|
-|Dijkstra|<https://github.com/sebastianrodriguezcorrea/Analysis-and-design-of-algorithms/tree/master/Period%202/Dijkstra>|
-|Iu-Di-Oh!|<https://github.com/sebastianrodriguezcorrea/Analysis-and-design-of-algorithms/tree/master/Period%202/Iu-Di-Oh>|
-|CoronaVirus|<https://github.com/sebastianrodriguezcorrea/Analysis-and-design-of-algorithms/tree/master/COVID-19>|
-|Python Video (sorting methods)|<https://youtu.be/2UYa1W-tpAA>|
-|Python sorting methods|<https://github.com/sebastianrodriguezcorrea/Analysis-and-design-of-algorithms/blob/master/Period%202/Met.%20Ordenamiento%20-%20Python/PrimerPuntoTaller3.py>|
-|Solution Taller 4|<https://github.com/sebastianrodriguezcorrea/Analysis-and-design-of-algorithms/tree/master/Period%202/Taller%204/Taller4Analisis/src>|
+|[Internship](https://www.urionlinejudge.com.br/judge/es/problems/view/2248)|<center>[code](https://github.com/sebastianrodriguezcorrea/Analysis-and-design-of-algorithms/tree/master/Period%202/Internship)</center>|
+|[Web Browser](https://www.urionlinejudge.com.br/judge/es/problems/view/2635)|<center>[code](https://github.com/sebastianrodriguezcorrea/Analysis-and-design-of-algorithms/tree/master/Period%202/WebBrowser)</center>|
+|[Magic and Sword](https://www.urionlinejudge.com.br/judge/es/problems/view/2632)|<center>[code](https://github.com/sebastianrodriguezcorrea/Analysis-and-design-of-algorithms/tree/master/Period%202/MagicAndSword)</center>|
+|[Dominación Bacteriana](https://www.urionlinejudge.com.br/judge/es/problems/view/2687)|<center>[code](https://github.com/sebastianrodriguezcorrea/Analysis-and-design-of-algorithms/tree/master/Period%202/DominacionBacteriana)</center>|
+|[Dijkstra](https://www.urionlinejudge.com.br/judge/es/problems/view/2653)|<center>[code](https://github.com/sebastianrodriguezcorrea/Analysis-and-design-of-algorithms/tree/master/Period%202/Dijkstra)</center>|
+|[Iu-Di-Oh!](https://www.urionlinejudge.com.br/judge/en/problems/view/2542)|<center>[code](https://github.com/sebastianrodriguezcorrea/Analysis-and-design-of-algorithms/tree/master/Period%202/Iu-Di-Oh)</center>|
+|Project CoronaVirus|<center>[code](https://github.com/sebastianrodriguezcorrea/Analysis-and-design-of-algorithms/tree/master/COVID-19)</center>|
+|Python Video (sorting methods)|<center>[video](https://youtu.be/2UYa1W-tpAA)</center>|
+|Python sorting methods|<center>[code](https://github.com/sebastianrodriguezcorrea/Analysis-and-design-of-algorithms/blob/master/Period%202/Met.%20Ordenamiento%20-%20Python/PrimerPuntoTaller3.py)</center>|
+|Solution Taller 4|<center>[code](https://github.com/sebastianrodriguezcorrea/Analysis-and-design-of-algorithms/tree/master/Period%202/Taller%204/Taller4Analisis/src)</center>|
+
+___
