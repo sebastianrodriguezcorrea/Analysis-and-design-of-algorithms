@@ -4,7 +4,7 @@
 
 ___
 
-<span style = "font-size: 60pt"><strong>Introduction</strong></span>
+<span style = "font-size: 13pt">**Introduction**</span>
 
 <p style = 'text-align: justify;'>
 In this space will shared exercises, talleres and quices development in the asignature of <strong>Analysis and design of algorithms</strong> in <strong>San Buenaventura university</strong> of the Bogotá <https://www.usbbog.edu.co/> Therefore, the aim will be to guide and demonstrate the various topics that comprise the subject matter, the objective is to store a series of useful algorithms that will be supportive in solving algorithmic problems with a higher level of difficulty.</p> 
