@@ -48,3 +48,12 @@ ___
 |Solution Taller 4|<center>[code](https://github.com/sebastianrodriguezcorrea/Analysis-and-design-of-algorithms/tree/master/Period%202/Taller%204/Taller4Analisis/src)</center>|
 
 ___
+
+# Soting  Methods
+
+<p style = 'text-align: justify;'>
+Order methods are tools that allow us to search and control data in this way, with them we can search for specific data more efficiently and quickly than in the classic way, and there are several types of order methods and it is up to us. Choose the one that best meets our needs.</p>
+
+For more explanation, please visit this [page](http://lwh.free.fr/pages/algo/tri/tri_es.htm)
+
+If you want to See the methos in code java please visit this [link](https://github.com/sebastianrodriguezcorrea/Analysis-and-design-of-algorithms/tree/master/Sorting%20Methods/MetodosOrdenamiento)
