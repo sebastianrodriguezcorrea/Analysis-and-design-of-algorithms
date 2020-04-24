@@ -59,3 +59,16 @@ Order methods are tools that allow us to search and control data in this way, wi
 For more explanation, please visit this [page](http://lwh.free.fr/pages/algo/tri/tri_es.htm)
 
 If you want to See the methos in code java please visit this [link](https://github.com/sebastianrodriguezcorrea/Analysis-and-design-of-algorithms/tree/master/Sorting%20Methods/MetodosOrdenamiento)
+
+___
+
+# Java API Collections
+
+![SortingMethods](https://lh3.googleusercontent.com/proxy/9dKogLiQ7cLeq8fKIau9akaGJZ9MOVqXZ6MJnbvr3lmPRFc4-qQneRQ6d2gY2Ju8R3uf173zI66LJAB4WVZYRncHO0eW1vf8HxfKEFDh23XcFG5BWSA)
+
+<p style = 'text-align: justify;'>
+The java APIs allow us to use tools predestined by the java library, which make it easier for us to create code, in this way these tools promote a large amount of useful and necessary content to elaborate order structures and control of more efficient data, in addition these can be classified according to the required need and the behavior that it promotes in the code structure.</p>
+
+For more explanation, please visit this [page](http://how2examples.com/java/collections)
+
+If you want to See the java API Colletions in code please visit this [link]()
