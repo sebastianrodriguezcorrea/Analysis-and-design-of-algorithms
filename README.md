@@ -49,7 +49,9 @@ ___
 
 ___
 
-# Soting  Methods
+# Sorting  Methods
+
+![SortingMethods](https://embed-ssl.wistia.com/deliveries/70d6f4e10e2badb5ef394f00c17ad2bc1c14f6e7.jpg)
 
 <p style = 'text-align: justify;'>
 Order methods are tools that allow us to search and control data in this way, with them we can search for specific data more efficiently and quickly than in the classic way, and there are several types of order methods and it is up to us. Choose the one that best meets our needs.</p>
