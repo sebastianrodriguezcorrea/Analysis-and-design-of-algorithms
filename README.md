@@ -4,7 +4,7 @@
 
 ___
 
-## Introduction
+<span style = "color:darkorange; font-size: 16pt">**Introduction**</span>
 
 In this space will shared exercises, talleres and quices development in the asignature of **Analysis and design of algorithms** in **San Buenaventura university** of the Bogotá <https://www.usbbog.edu.co/> Therefore, the aim will be to guide and demonstrate the various topics that comprise the subject matter, the objective is to store a series of useful algorithms that will be supportive in solving algorithmic problems with a higher level of difficulty. 
 
@@ -15,24 +15,40 @@ ___
 
 ___
 
-## Period 1 - Corte 1
+## Period 1 
 
-|Algorithm exercise|Solution|FlowChart|
-|------------------|--------|------------------|
-|Combustible Gastado|<https://github.com/sebastianrodriguezcorrea/Analysis-and-design-of-algorithms/tree/master/Period%201/CombustibleGastado>|<https://github.com/sebastianrodriguezcorrea/Analysis-and-design-of-algorithms/blob/master/Period%201/Flowchart/CombustibleGastado.jpg>|
-|Promedio 3|<https://github.com/sebastianrodriguezcorrea/Analysis-and-design-of-algorithms/tree/master/Period%201/Promedio%203>|<https://github.com/sebastianrodriguezcorrea/Analysis-and-design-of-algorithms/blob/master/Period%201/Flowchart/Promedio3.jpg>|
-|Clasificación Simple|<https://github.com/sebastianrodriguezcorrea/Analysis-and-design-of-algorithms/tree/master/Period%201/ClasificacionSimple>|<https://github.com/sebastianrodriguezcorrea/Analysis-and-design-of-algorithms/blob/master/Period%201/Flowchart/ClasificacionSimple.jpg>|
-|Triángulo|<https://github.com/sebastianrodriguezcorrea/Analysis-and-design-of-algorithms/tree/master/Period%201/Triangulo>|<https://github.com/sebastianrodriguezcorrea/Analysis-and-design-of-algorithms/blob/master/Period%201/Flowchart/Triangulo.jpg>|
-|Twitting|<https://github.com/sebastianrodriguezcorrea/Analysis-and-design-of-algorithms/tree/master/Period%201/Twitting>|<https://github.com/sebastianrodriguezcorrea/Analysis-and-design-of-algorithms/blob/master/Period%201/Flowchart/Twitting.jpg>|
-|Twilight at Portland|<https://github.com/sebastianrodriguezcorrea/Analysis-and-design-of-algorithms/tree/master/Period%201/TwilightAtPortland>|<https://github.com/sebastianrodriguezcorrea/Analysis-and-design-of-algorithms/blob/master/Period%201/Flowchart/TwilightAtPortland.jpg>|
-|Engine Failure|<https://github.com/sebastianrodriguezcorrea/Analysis-and-design-of-algorithms/tree/master/Period%201/EngineFailure>|<https://github.com/sebastianrodriguezcorrea/Analysis-and-design-of-algorithms/blob/master/Period%201/Flowchart/EngineFailure.jpg>|
-|Evento|<https://github.com/sebastianrodriguezcorrea/Analysis-and-design-of-algorithms/tree/master/Period%201/Evento>|<https://github.com/sebastianrodriguezcorrea/Analysis-and-design-of-algorithms/blob/master/Period%201/Flowchart/Evento.jpg>|
-|Quiz|<https://github.com/sebastianrodriguezcorrea/Analysis-and-design-of-algorithms/tree/master/Period%201/Quiz/AdaQuiz>|<https://github.com/sebastianrodriguezcorrea/Analysis-and-design-of-algorithms/blob/master/Period%201/Flowchart/adaQuiz.jpg>|
+|Algorithm exercise|<center>Code Solution</center>|
+|------------------|--------|
+|Combustible Gastado|<https://github.com/sebastianrodriguezcorrea/Analysis-and-design-of-algorithms/tree/master/Period%201/CombustibleGastado>|
+|Promedio 3|<https://github.com/sebastianrodriguezcorrea/Analysis-and-design-of-algorithms/tree/master/Period%201/Promedio%203>|
+|Clasificación Simple|<https://github.com/sebastianrodriguezcorrea/Analysis-and-design-of-algorithms/tree/master/Period%201/ClasificacionSimple>|
+|Triángulo|<https://github.com/sebastianrodriguezcorrea/Analysis-and-design-of-algorithms/tree/master/Period%201/Triangulo>|
+|Twitting|<https://github.com/sebastianrodriguezcorrea/Analysis-and-design-of-algorithms/tree/master/Period%201/Twitting>|
+|Twilight at Portland|<https://github.com/sebastianrodriguezcorrea/Analysis-and-design-of-algorithms/tree/master/Period%201/TwilightAtPortland>|
+|Engine Failure|<https://github.com/sebastianrodriguezcorrea/Analysis-and-design-of-algorithms/tree/master/Period%201/EngineFailure>|
+|Evento|<https://github.com/sebastianrodriguezcorrea/Analysis-and-design-of-algorithms/tree/master/Period%201/Evento>|
+|Quiz|<https://github.com/sebastianrodriguezcorrea/Analysis-and-design-of-algorithms/tree/master/Period%201/Quiz/AdaQuiz>|
+
 ___
 
-## Period 2 - Corte 2
+<span style = "color:lightblue; font-size: 13pt">**FlowCharts**</span>
 
-|Algorithm exercise|Solution|
+|Algorithm exercise|<center>FlowChart</center>|
+|------------------|---------|
+|Combustible Gastado|<https://github.com/sebastianrodriguezcorrea/Analysis-and-design-of-algorithms/blob/master/Period%201/Flowchart/Promedio3.jpg>|
+|Promedio 3|<https://github.com/sebastianrodriguezcorrea/Analysis-and-design-of-algorithms/blob/master/Period%201/Flowchart/Promedio3.jpg>|
+|Clasificación Simple|<https://github.com/sebastianrodriguezcorrea/Analysis-and-design-of-algorithms/blob/master/Period%201/Flowchart/ClasificacionSimple.jpg>|
+|Triángulo|<https://github.com/sebastianrodriguezcorrea/Analysis-and-design-of-algorithms/blob/master/Period%201/Flowchart/Triangulo.jpg>|
+|Twitting|<https://github.com/sebastianrodriguezcorrea/Analysis-and-design-of-algorithms/blob/master/Period%201/Flowchart/Twitting.jpg>|
+|Engine Failure|<https://github.com/sebastianrodriguezcorrea/Analysis-and-design-of-algorithms/blob/master/Period%201/Flowchart/EngineFailure.jpg>|
+|Evento|<https://github.com/sebastianrodriguezcorrea/Analysis-and-design-of-algorithms/blob/master/Period%201/Flowchart/EngineFailure.jpg>|
+|Quiz|<https://github.com/sebastianrodriguezcorrea/Analysis-and-design-of-algorithms/blob/master/Period%201/Flowchart/adaQuiz.jpg>|
+
+___
+
+## Period 2
+
+|Algorithm exercise|Code Solution|
 |------------------|--------|
 |Intership|<https://github.com/sebastianrodriguezcorrea/Analysis-and-design-of-algorithms/tree/master/Period%202/Internship>|
 |Web Browser|<https://github.com/sebastianrodriguezcorrea/Analysis-and-design-of-algorithms/tree/master/Period%202/WebBrowser>|
@@ -41,6 +57,6 @@ ___
 |Dijkstra|<https://github.com/sebastianrodriguezcorrea/Analysis-and-design-of-algorithms/tree/master/Period%202/Dijkstra>|
 |Iu-Di-Oh!|<https://github.com/sebastianrodriguezcorrea/Analysis-and-design-of-algorithms/tree/master/Period%202/Iu-Di-Oh>|
 |CoronaVirus|<https://github.com/sebastianrodriguezcorrea/Analysis-and-design-of-algorithms/tree/master/COVID-19>|
-|Video Python(Met. Ordenamiento)|<https://youtu.be/2UYa1W-tpAA>|
-|Metodos de Ordenamiento en Python|<https://github.com/sebastianrodriguezcorrea/Analysis-and-design-of-algorithms/blob/master/Period%202/Met.%20Ordenamiento%20-%20Python/PrimerPuntoTaller3.py>|
-|Taller 4|<https://github.com/sebastianrodriguezcorrea/Analysis-and-design-of-algorithms/tree/master/Period%202/Taller%204/Taller4Analisis/src>|
+|Python Video (sorting methods)|<https://youtu.be/2UYa1W-tpAA>|
+|Python sorting methods|<https://github.com/sebastianrodriguezcorrea/Analysis-and-design-of-algorithms/blob/master/Period%202/Met.%20Ordenamiento%20-%20Python/PrimerPuntoTaller3.py>|
+|Solution Taller 4|<https://github.com/sebastianrodriguezcorrea/Analysis-and-design-of-algorithms/tree/master/Period%202/Taller%204/Taller4Analisis/src>|
