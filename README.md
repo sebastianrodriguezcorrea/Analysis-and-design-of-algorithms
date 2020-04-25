@@ -7,7 +7,7 @@ ___
 ## Introduction
 
 <p style = 'text-align: justify;'>
-In this space will shared exercises, talleres and quices development in the asignature of <strong>Analysis and design of algorithms</strong> in <strong>San Buenaventura university</strong> of the Bogotá <a>https://www.usbbog.edu.co</a> Therefore, the aim will be to guide and demonstrate the various topics that comprise the subject matter, the objective is to store a series of useful algorithms that will be supportive in solving algorithmic problems with a higher level of difficulty.</p> 
+In this space will shared exercises, talleres and quices development in the asignature of <strong>Analysis and design of algorithms</strong> in <strong>San Buenaventura university</strong> of the Bogotá https://www.usbbog.edu.co Therefore, the aim will be to guide and demonstrate the various topics that comprise the subject matter, the objective is to store a series of useful algorithms that will be supportive in solving algorithmic problems with a higher level of difficulty.</p> 
 
 <p style = 'text-align: justify;'>
 En este espacio se compartirá ejercicios, talleres y quices desarrollados en la materia de <strong>Análisis y diseño de algoritmos</strong> de la <strong>Universidad de San Buenaventura</strong> de la sede de Bogotá <https://www.usbbog.edu.co/> Por ende se tendrá como fin orientar y demostrar los diversos temas que comprenden la materia en cuestión, el objetivo es almacenar una serie de algoritmos utiles que serán de apoyo para resolver problemas algoritmicos con un nivel de dificultad superior.</p>
