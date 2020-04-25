@@ -16,6 +16,8 @@ ___
 
 ![Universidad de San Buenaventura](https://dachcolombia.com/wp-content/uploads/2017/07/7993_universidad-de-san-buenaventura.jpg)
 
+___
+
 ## Period 1 
 
 |Algorithm exercise URI|<center>Code Solution</center>|FlowChart|
@@ -56,16 +58,16 @@ ___
 <p style = 'text-align: justify;'>
 Order methods are tools that allow us to search and control data in this way, with them we can search for specific data more efficiently and quickly than in the classic way, and there are several types of order methods and it is up to us. Choose the one that best meets our needs.</p>
 
-the sort algorithms types are
+**The sort algorithms types are
 
-* insertion sort
-* bubble sort
-* bidirectional bubble sort
-* Gnome sort
-* Selection sort
-* Peine sort
-* Shell sort
-* Quick sort
+* *Insertion sort
+* *Bubble sort
+* *Bidirectional bubble sort
+* *Gnome sort
+* *Selection sort
+* *Peine sort
+* *Shell sort
+* *Quick sort
 
 For more explanation, please visit this [page](http://lwh.free.fr/pages/algo/tri/tri_es.htm)
 
