@@ -53,7 +53,7 @@ ___
 
 # Sorting  Methods
 
-![SortingMethods](https://chercher.tech/images/java-programming/java-collection-framework.png)
+![SortingMethods](https://embed-ssl.wistia.com/deliveries/70d6f4e10e2badb5ef394f00c17ad2bc1c14f6e7.jpg)
 
 <p style = 'text-align: justify;'>
 Order methods are tools that allow us to search and control data in this way, with them we can search for specific data more efficiently and quickly than in the classic way, and there are several types of order methods and it is up to us. Choose the one that best meets our needs.</p>
@@ -77,7 +77,7 @@ ___
 
 # Java API Collections
 
-![SortingMethods](https://lh3.googleusercontent.com/proxy/9dKogLiQ7cLeq8fKIau9akaGJZ9MOVqXZ6MJnbvr3lmPRFc4-qQneRQ6d2gY2Ju8R3uf173zI66LJAB4WVZYRncHO0eW1vf8HxfKEFDh23XcFG5BWSA)
+![SortingMethods](https://chercher.tech/images/java-programming/java-collection-framework.png)
 
 <p style = 'text-align: justify;'>
 The java APIs allow us to use tools predestined by the java library, which make it easier for us to create code, in this way these tools promote a large amount of useful and necessary content to elaborate order structures and control of more efficient data, in addition these can be classified according to the required need and the behavior that it promotes in the code structure.</p>
