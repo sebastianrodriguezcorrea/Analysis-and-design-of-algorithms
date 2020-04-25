@@ -1,13 +1,55 @@
 package sortingmethods;
 
+import java.util.Scanner;
+import javax.swing.JOptionPane;
+
 /**
  *
  * @author Juan Sebastian
  */
 public class SortingMethods {
-
+    
+    private static Scanner entrada;
+    
     public static void main(String[] args) {
+        entrada = new Scanner(System.in);
 
+        int tamanio = Integer.parseInt(JOptionPane.showInputDialog("Digite la longitud del vector"));
+
+        // crear aaray de tamaño N digitado por el usuario
+        int ArrayN[] = new int[tamanio];
+
+        /**
+         * Bucle rellanar el arryay con lo que dite el usuraio
+         */
+        for (int i = 0; i < ArrayN.length; i++) {
+
+            System.out.print("Digite el numero para el elemento " + (i + 1) + ": ");
+            ArrayN[i] = entrada.nextInt();
+        }
+
+        /**
+         * Método para mostrar el arreglo desordenado
+         */
+        System.out.println("\n***** SIN ORDENAR *****");
+        mostrarN(ArrayN);
+
+        String respuestaUsuario = JOptionPane.showInputDialog("		¿QUIERE ORDENAR EL ARREGLO?" + "\nSI O NO");
+
+        // si la respuesta es S=si
+        if (respuestaUsuario.equalsIgnoreCase("si")) {
+            System.out.println("******* ORDENADO *******");
+            burbujaDireccional(ArrayN);
+            // burbuja(ArrayN);
+            // gnome(ArrayN);
+            // peine(ArrayN);
+            // Hacer seleccion, insercion, quicksort
+            // insercionDirecta(ArrayN);
+            // quicksort(ArrayN, 0, ArrayN.length - 1); //Dando como parámetros de entrada la posición inicial del arreglo y la posición final de este.
+            // mostrarN(ArrayN);// visualizar arreglo ordenado por el método Quick.
+            // seleccion(ArrayN);
+            // shellSort(ArrayN);
+        }
     }
     /***********************************************
      * ORDENAMIENTO BURBUJADIRECCIONAL
@@ -372,6 +414,12 @@ public class SortingMethods {
     }
 
     private static void mostrarN(int[] arrayN) {
-        throw new UnsupportedOperationException("Not supported yet."); //To change body of generated methods, choose Tools | Templates.
+        // TODO Auto-generated method stub
+
+        System.out.print("----------------------------------------------\n");
+        for (int i = 0; i < arrayN.length; i++) {
+            System.out.println("Elemento " + (i + 1) + "------>" + arrayN[i] + "\n");
+        }
+        System.out.println("-----------------------------------------------");
     }
 }
