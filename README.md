@@ -82,6 +82,6 @@ ___
 <p style = 'text-align: justify;'>
 The java APIs allow us to use tools predestined by the java library, which make it easier for us to create code, in this way these tools promote a large amount of useful and necessary content to elaborate order structures and control of more efficient data, in addition these can be classified according to the required need and the behavior that it promotes in the code structure.</p>
 
-> For more explanation, please visit this [page](http://how2examples.com/java/collections)
+> For more explanation, please visit this [page](https://docs.oracle.com/javase/7/docs/api/java/util/Collections.html)
 
 > If you want to see some exercises about the Java API COLLECTIONS in code please visit this [link](https://github.com/sebastianrodriguezcorrea/Analysis-and-design-of-algorithms/tree/master/Java%20API%20Collections/EjemploStack/src/ejemplostack)
