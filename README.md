@@ -75,7 +75,7 @@ Order methods are tools that allow us to search and control data in this way, wi
 
 ___
 
-# Java API Collections
+# Java API COLLECTIONS
 
 ![SortingMethods](https://chercher.tech/images/java-programming/java-collection-framework.png)
 
