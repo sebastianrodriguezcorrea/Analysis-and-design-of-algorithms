@@ -69,9 +69,9 @@ Order methods are tools that allow us to search and control data in this way, wi
 * *Shell sort*
 * *Quick sort*
 
-For more explanation, please visit this [page](http://lwh.free.fr/pages/algo/tri/tri_es.htm)
+> For more explanation, please visit this [page](http://lwh.free.fr/pages/algo/tri/tri_es.htm)
 
-If you want to See the methos in code java please visit this [link](https://github.com/sebastianrodriguezcorrea/Analysis-and-design-of-algorithms/blob/master/Sorting%20methods/SortingMethods/src/sortingmethods/SortingMethods.java)
+> If you want to See the methos in code java please visit this [link](https://github.com/sebastianrodriguezcorrea/Analysis-and-design-of-algorithms/blob/master/Sorting%20methods/SortingMethods/src/sortingmethods/SortingMethods.java)
 
 ___
 
