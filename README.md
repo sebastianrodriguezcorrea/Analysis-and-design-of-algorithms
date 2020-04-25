@@ -18,7 +18,7 @@ ___
 
 ___
 
-## Period 1 
+## First term 
 
 |Algorithm exercise URI|<center>Code Solution</center>|FlowChart|
 |------------------|--------|-------------------------|
@@ -34,7 +34,7 @@ ___
 
 ___
 
-## Period 2
+## Second term
 
 |Algorithm exercise / URI|<center>Code Solution</center>|
 |------------------|--------|
