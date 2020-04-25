@@ -36,7 +36,7 @@ ___
 
 ## Period 2
 
-|Algorithm exercise|<center>Code Solution</center>|
+|Algorithm exercise / URI|<center>Code Solution</center>|
 |------------------|--------|
 |[Internship](https://www.urionlinejudge.com.br/judge/es/problems/view/2248)|<center>[code](https://github.com/sebastianrodriguezcorrea/Analysis-and-design-of-algorithms/tree/master/Period%202/Internship)</center>|
 |[Web Browser](https://www.urionlinejudge.com.br/judge/es/problems/view/2635)|<center>[code](https://github.com/sebastianrodriguezcorrea/Analysis-and-design-of-algorithms/tree/master/Period%202/WebBrowser)</center>|
