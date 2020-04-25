@@ -69,7 +69,7 @@ the sort algorithms types are
 
 For more explanation, please visit this [page](http://lwh.free.fr/pages/algo/tri/tri_es.htm)
 
-If you want to See the methos in code java please visit this [link](https://github.com/sebastianrodriguezcorrea/Analysis-and-design-of-algorithms/tree/master/Sorting%20Methods/MetodosOrdenamiento)
+If you want to See the methos in code java please visit this [link](https://github.com/sebastianrodriguezcorrea/Analysis-and-design-of-algorithms/blob/master/Sorting%20methods/SortingMethods/src/sortingmethods/SortingMethods.java)
 
 ___
 
