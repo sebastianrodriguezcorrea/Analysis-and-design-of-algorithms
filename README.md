@@ -84,4 +84,4 @@ The java APIs allow us to use tools predestined by the java library, which make 
 
 > For more explanation, please visit this [page](http://how2examples.com/java/collections)
 
-> If you want to see some exercises about the java API Colletions in code please visit this [link](https://github.com/sebastianrodriguezcorrea/Analysis-and-design-of-algorithms/tree/master/Java%20API%20Collections/EjemploStack/src/ejemplostack)
+> If you want to see some exercises about the Java API COLLECTIONS in code please visit this [link](https://github.com/sebastianrodriguezcorrea/Analysis-and-design-of-algorithms/tree/master/Java%20API%20Collections/EjemploStack/src/ejemplostack)
