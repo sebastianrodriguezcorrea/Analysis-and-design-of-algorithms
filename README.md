@@ -53,7 +53,7 @@ ___
 
 ## Third term
 
-|Algoritm exercise| Code solution|
+|Algoritm exercise| Code Solution|
 |-----------------|--------------|
 |Project Panaderia|[code]()|
 
