@@ -1,0 +1,28 @@
+-- Database: Prueba1
+
+-- DROP DATABASE "Prueba1";
+
+CREATE DATABASE "Prueba1"
+    WITH 
+    OWNER = postgres
+    ENCODING = 'UTF8'
+    LC_COLLATE = 'Spanish_Spain.1252'
+    LC_CTYPE = 'Spanish_Spain.1252'
+    TABLESPACE = pg_default
+    CONNECTION LIMIT = -1;
+    
+--Si esta usando la terminal de postgresql use \c Prueba1
+--Si usa el cliente web de PostgreSQL (PgAdmin 4) cree un script de la database Prueba1
+
+CREATE TABLE producto(
+	id integer,
+	nombre text,
+	marca text,
+	fecha_vencimiento date,
+	costo integer,
+	unidades integer,
+	peso text,
+	fecha_venta date,
+	PRIMARY KEY(id)
+);
+
