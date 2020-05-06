@@ -11,8 +11,9 @@ CREATE DATABASE "Prueba1"
     TABLESPACE = pg_default
     CONNECTION LIMIT = -1;
     
---Si esta usando la terminal de postgresql use \c Prueba1
---Si usa el cliente web de PostgreSQL (PgAdmin 4) cree un script de la database Prueba1
+--Si está usando la terminal de postgresql use \c Prueba1
+--Si está usando el cliente web de PostgreSQL (PgAdmin 4), cree un script de la base de datos previamente creada (Prueba1)
+-- Posteriormente proceda a crear la siguiente tabla
 
 CREATE TABLE producto(
 	id integer,
