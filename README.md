@@ -55,7 +55,7 @@ ___
 
 |Algoritm exercise| Code Solution|
 |-----------------|--------------|
-|Project Panaderia with database PostgreSQL - 12|[code](https://github.com/sebastianrodriguezcorrea/Analysis-and-design-of-algorithms/tree/master/Period%203/version%202/ProjectPanaderiaV1.0), [script database](https://github.com/sebastianrodriguezcorrea/Analysis-and-design-of-algorithms/blob/master/Period%203/version%202/Script%20database)|
+|Project Panaderia with database PostgreSQL - 12|[code](https://github.com/sebastianrodriguezcorrea/Analysis-and-design-of-algorithms/tree/master/Period%203/Java%20Project%20Panaderia/ProjectPanaderiaV1.0), [script database](https://github.com/sebastianrodriguezcorrea/Analysis-and-design-of-algorithms/blob/master/Period%203/Java%20Project%20Panaderia/Script%20database), [Test document](https://github.com/sebastianrodriguezcorrea/Analysis-and-design-of-algorithms/blob/master/Period%203/Pruebas%20Realizadas%20Con%20JUnit%204%20Al%20Proyecto%20de%20Panader%C3%ADa.pdf)|
 
 ___
 
