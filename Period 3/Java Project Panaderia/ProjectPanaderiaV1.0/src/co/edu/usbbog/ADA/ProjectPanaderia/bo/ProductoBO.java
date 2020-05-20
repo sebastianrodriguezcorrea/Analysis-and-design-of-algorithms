@@ -11,8 +11,6 @@ import co.edu.usbbog.ADA.ProjectPanaderia.model.Producto;
 import java.sql.Connection;
 import java.sql.Date;
 import java.sql.SQLException;
-import java.util.logging.Level;
-import java.util.logging.Logger;
 import javax.swing.JOptionPane;
 import javax.swing.JTable;
 

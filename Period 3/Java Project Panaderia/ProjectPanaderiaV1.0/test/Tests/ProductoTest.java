@@ -13,8 +13,6 @@ import org.junit.Before;
 import org.junit.BeforeClass;
 import org.junit.Test;
 import static org.junit.Assert.*;
-import org.junit.runner.RunWith;
-import org.junit.runners.Parameterized;
 import org.junit.runners.Parameterized.Parameters;
 
 /**
@@ -25,9 +23,11 @@ import org.junit.runners.Parameterized.Parameters;
 public class ProductoTest {
 
     public static Producto pr;
+    public static Producto pr2;
 
     public ProductoTest() {
         pr = new Producto();
+        pr2 = new Producto();
     }
 
     @BeforeClass
@@ -37,7 +37,7 @@ public class ProductoTest {
 
     @AfterClass
     public static void tearDownClass() {
-        System.out.println("Preuba finalizada");
+        System.out.println("Prueba finalizada");
     }
 
     @Before
@@ -71,6 +71,8 @@ public class ProductoTest {
     public void testGetProducto() {
         try {
             assertEquals(getNombre(), "Leche");
+            assertNotNull(pr.getNombre());
+            assertNull(pr2.getNombre());
         } catch (Exception e) {
             fail("Ocurrio un error al comprobar el producto");
         }

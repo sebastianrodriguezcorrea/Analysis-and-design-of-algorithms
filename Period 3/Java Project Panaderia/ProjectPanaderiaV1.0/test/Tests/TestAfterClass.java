@@ -33,6 +33,7 @@ public class TestAfterClass {
 
     @BeforeClass
     public static void setUpClass() {
+        Conexion.getConnection();
     }
 
     @AfterClass

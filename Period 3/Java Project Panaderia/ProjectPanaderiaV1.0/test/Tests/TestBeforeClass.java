@@ -22,7 +22,7 @@ import static org.junit.Assert.*;
  */
 public class TestBeforeClass {
 
-    Conexion co;
+    private static Conexion co;
     ProductoBO prbo;
 
     public TestBeforeClass() {
@@ -32,11 +32,14 @@ public class TestBeforeClass {
 
     @BeforeClass
     public static void setUpClass() {
+        System.out.println("------------------- Inicio prueba ---------------------");
         Conexion.getConnection();
     }
 
     @AfterClass
     public static void tearDownClass() {
+        co.desconexion();
+        System.out.println("------------------- Fin prueba ------------------------");
     }
 
     @Before
@@ -58,8 +61,13 @@ public class TestBeforeClass {
             String mensaje = prbo.editar(new Producto(4, "Pan Bague", "Bimbo", Date.valueOf("2021-06-13"), 4000, 24,
                     "12 Unidades", Date.valueOf("2020-05-07")));
             String mensajeEsperado = "ACTUALIZADO CORRECTAMENTE";
-            assertEquals(mensajeEsperado, mensaje);
-        }catch(Exception e){
+
+            //Realiza de forma parecida la función de un assertEquals() desde un Array.
+            //De esa forma se crea un Array en relación a los mensajes que los métodos de las clases CRUD retornan.
+            assertArrayEquals(mensajeEsperado.toCharArray(), mensaje.toCharArray());
+            assertNotEquals("NO SE PUDO GUARDAR CORRECTAMENTE", mensaje);
+
+        } catch (Exception e) {
             fail("Ocurrió un error al actualizar el producto");
         }
     }

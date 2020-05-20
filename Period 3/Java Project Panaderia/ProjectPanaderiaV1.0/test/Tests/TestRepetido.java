@@ -6,6 +6,7 @@
 package Tests;
 
 import co.edu.usbbog.ADA.ProjectPanaderia.db.Conexion;
+import static org.hamcrest.CoreMatchers.isA;
 import org.junit.After;
 import org.junit.AfterClass;
 import org.junit.Before;
@@ -30,10 +31,12 @@ public class TestRepetido {
 
     @BeforeClass
     public static void setUpClass() {
+        System.out.println("----------------------- Inicio prueba ---------------------");
     }
 
     @AfterClass
     public static void tearDownClass() {
+        System.out.println("----------------------- Fin prueba -----------------------");
     }
 
     @Before
@@ -55,7 +58,13 @@ public class TestRepetido {
     }
 
     @Test
-    public void TestRepetirDiezVeces() {
+    public void TestRepetirDiezVecesConexion() {
         Conexion.getConnection();
+        assertThat(co, isA(Conexion.class));
+    }
+    
+    @Test
+    public void TestRepetirDiezVecesDesconexion(){
+        co.desconexion();
     }
 }

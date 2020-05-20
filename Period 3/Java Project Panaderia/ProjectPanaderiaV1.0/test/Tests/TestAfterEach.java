@@ -5,7 +5,6 @@
  */
 package Tests;
 
-import co.edu.usbbog.ADA.ProjectPanaderia.bo.ProductoBO;
 import co.edu.usbbog.ADA.ProjectPanaderia.db.Conexion;
 import java.sql.Connection;
 import org.junit.After;
@@ -22,9 +21,11 @@ import static org.junit.Assert.*;
 public class TestAfterEach {
 
     Conexion co;
-
+    Conexion conn;
+    
     public TestAfterEach() {
         this.co = new Conexion();
+        this.conn = null;
     }
 
     @BeforeClass
@@ -51,14 +52,15 @@ public class TestAfterEach {
     //
     // @Test
     // public void hello() {}
-    
     @Test
-    public void TestObtenerConexion(){
+    public void TestObtenerConexion() {
         Connection co = Conexion.getConnection();
     }
-    
+
     @Test
-    public void TestConexion(){
+    public void TestConexion() {
         Conexion.getConnection();
+        assertNotNull(co);
+        assertNull(conn);
     }
 }

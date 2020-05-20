@@ -67,8 +67,13 @@ public class ProductoBOTest {
             pbo.crear(new Producto(3, "Pan", "Bimbox2", Date.valueOf("2021-03-25"), 2800,
                     6, "8 Kilogramos", Date.valueOf("2020-05-08")));
             mensajeEsperado = "GUARDADO CORRECTAMENTE";
-            
+
             assertEquals(mensajeEsperado, mensaje);
+
+            //El mensaje correcto es "BORRADO CORRECTAMENTE"
+            //En AssertNotEquals se pone diferente para que se cumpla la condición.
+            assertNotEquals("NO SE PUDO GUARDAR CORRECTAMENTE", mensaje);
+
         } catch (Exception e) {
             System.out.println("ERROR. " + e.getMessage());
             fail("Ocurrio un error al crear el producto");
@@ -80,6 +85,9 @@ public class ProductoBOTest {
         String mensaje;
         String mensajeEsperado;
         try {
+            assertFalse("Comprobación Erronea", pbo.validacionProducto(1));
+            assertFalse("Comprobación Erronea", pbo.validacionProducto(2));
+            assertFalse("Comprobación Erronea", pbo.validacionProducto(3));
             if (pbo.validacionProducto(1) && pbo.validacionProducto(2) && pbo.validacionProducto(3)) {
                 mensaje = pbo.editar(new Producto(1, "Huevos", "Buen Sol", Date.valueOf("2021-05-20"), 2500,
                         4, "24 Kilogramos", Date.valueOf("2020-05-08")));
@@ -94,6 +102,11 @@ public class ProductoBOTest {
             }
 
             assertEquals(mensajeEsperado, mensaje);
+
+            //El mensaje correcto es "BORRADO CORRECTAMENTE"
+            //En AssertNotEquals se pone diferente para que se cumpla la condición.
+            assertNotEquals("ACTUALIZADO CORRECTAMENTE", mensaje);
+
         } catch (Exception e) {
             System.out.println("ERROR. " + e.getMessage());
             fail("Ocurrio un error al actualizar el producto");
@@ -105,6 +118,9 @@ public class ProductoBOTest {
         String mensaje;
         String mensajeEsperado;
         try {
+            assertTrue("Comprobación Erronea", pbo.validacionProducto(1));
+            assertTrue("Comprobación Erronea", pbo.validacionProducto(2));
+            assertTrue("Comprobación Erronea", pbo.validacionProducto(3));
             if (pbo.validacionProducto(1) && pbo.validacionProducto(2) && pbo.validacionProducto(3)) {
                 mensaje = pbo.eliminar(1);
                 pbo.eliminar(2);
@@ -116,6 +132,11 @@ public class ProductoBOTest {
             }
 
             assertEquals(mensajeEsperado, mensaje);
+
+            //El mensaje correcto es "BORRADO CORRECTAMENTE"
+            //En AssertNotEquals se pone diferente para que se cumpla la condición.
+            assertNotEquals("NO SE PUDO BORRAR CORRECTAMENTE", mensaje);
+
         } catch (Exception e) {
             fail("Ocurrio un error al eliminar el producto");
         }

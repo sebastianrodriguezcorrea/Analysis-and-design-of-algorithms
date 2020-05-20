@@ -65,7 +65,10 @@ public class TestOrden {
             String respuesta = prbo.crear(new Producto(4, "Pan Frances", "ComaPan", Date.valueOf("2021-06-13"), 4000, 24,
                     "12 Unidades", Date.valueOf("2020-05-07")));
             String respuestaEsperada = "GUARDADO CORRECTAMENTE";
-            assertEquals(respuestaEsperada, respuesta);
+            //Parecido al assertEquals(respuestaEsperada, respuesta);
+            assertSame(respuestaEsperada, respuesta);
+            //Parecido al assertNotEquals(respuestaNoEsperada, respuesta);
+            assertNotSame("NO SE PUDO GUARDAR CORRECTAMENTE", respuesta);
         }catch(Exception e){
             fail("Hubo un error al crear el producto");
         }
